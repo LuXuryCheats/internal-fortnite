@@ -1,0 +1,19 @@
+﻿  entry.cpp
+C:\Users\saxton\source\repos\example\example\utils.hh(201,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\structs.hh(187,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\saxton\source\repos\example\example\structs.hh(337,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(91,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(92,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(140,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(172,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(94,8): warning C4189: 'closest_pawn_dist': local variable is initialized but not referenced
+C:\Users\saxton\source\repos\example\example\main.hh(95,8): warning C4189: 'closest_pawn': local variable is initialized but not referenced
+C:\Users\saxton\source\repos\example\example\main.hh(96,7): warning C4189: 'op': local variable is initialized but not referenced
+C:\Users\saxton\source\repos\example\example\main.hh(270,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\saxton\source\repos\example\example\entry.cpp(3,65): warning C4100: 'niggahs': unreferenced formal parameter
+C:\Users\saxton\source\repos\example\example\entry.cpp(3,30): warning C4100: 'nigga': unreferenced formal parameter
+C:\Users\saxton\source\repos\example\example\structs.hh(313,14): warning C4505: 'structs::client_set_rot': unreferenced local function has been removed
+C:\Users\saxton\source\repos\example\example\structs.hh(319,14): warning C4505: 'structs::validate_rot': unreferenced local function has been removed
+C:\Users\saxton\source\repos\example\example\structs.hh(364): warning C4715: 'structs::is_in_fov': not all control paths return a value
+C:\Users\saxton\source\repos\example\example\main.hh(190): warning C4715: 'actor_loop': not all control paths return a value
+  example.vcxproj -> C:\Users\saxton\source\repos\example\x64\Release\unreal.dll
