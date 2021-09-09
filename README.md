@@ -1,11 +1,5 @@
 # Fortnite Internal
 
-|--------|
-| aimbot | has been added
-|--------|
-| boxesp | has been added
-|--------|
-
 # Features
 - Box ESP
 - Mouse Aimbot
